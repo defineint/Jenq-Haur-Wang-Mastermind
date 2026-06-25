@@ -1,0 +1,279 @@
+{
+    "name": "Jenq-Haur Wang (王正豪)",
+    "highest_degree": "Ph.D",
+    "education": [
+        {
+            "degree": "Ph.D",
+            "school": "National Taiwan University",
+            "year": "Jun. 2002"
+        },
+        {
+            "degree": "BS",
+            "school": "National Taiwan University",
+            "year": "Jun. 1994"
+        }
+    ],
+    "experience": [
+        {
+            "title": "Professor",
+            "organization": "Dept. CSIE, National Taipei University of Technology (NTUT)",
+            "period": "Feb. 2022 - present"
+        },
+        {
+            "title": "Deputy Chief Executive Officer",
+            "organization": "Joint Commission of Technological and Vocational College Admission Committee (JCTV)",
+            "period": "Nov. 2024 - present"
+        },
+        {
+            "title": "Deputy Director",
+            "organization": "Cybersecurity Research Center, NTUT",
+            "period": "Jul. 2023 - present"
+        },
+        {
+            "title": "Chief Officer, Curriculum Section",
+            "organization": "Office of Academic Affairs, NTUT",
+            "period": "Feb. 2022 - Nov. 2024"
+        },
+        {
+            "title": "Adjunct Consulting Expert",
+            "organization": "NAR Labs",
+            "period": "Jul. 2022 - Jun. 2023"
+        },
+        {
+            "title": "Chief Officer, Information Section",
+            "organization": "Library, NTUT",
+            "period": "Aug. 2015 - Jan. 2019"
+        },
+        {
+            "title": "Visiting Professor",
+            "organization": "School of Information Systems, Singapore Management University",
+            "period": "Oct. 2014"
+        },
+        {
+            "title": "Visiting Scholar",
+            "organization": "Institute of Information Science, Academia Sinica",
+            "period": "Aug. 2014 - Jan. 2015"
+        },
+        {
+            "title": "Associate Professor",
+            "organization": "Dept. CSIE, National Taipei University of Technology",
+            "period": "Feb. 2014 - Jan. 2022"
+        },
+        {
+            "title": "Assistant Professor",
+            "organization": "Dept. CSIE, National Taipei University of Technology",
+            "period": "Mar. 2007 - Jan. 2014"
+        },
+        {
+            "title": "Postdoctoral Fellow",
+            "organization": "Institute of Information Science, Academia Sinica",
+            "period": "Oct. 2002 - Feb. 2007"
+        }
+    ],
+    "courses_taught": [
+        {
+            "course": "Introduction to Big Data Analytics (undergraduates)",
+            "years": [
+                "Fall 2026",
+                "Fall 2022",
+                "Fall 2021",
+                "Fall 2020",
+                "Spring 2019",
+                "Spring 2018",
+                "Spring 2017"
+            ]
+        },
+        {
+            "course": "Educational Data Mining and Applications (undergraduates)",
+            "years": [
+                "Fall 2025",
+                "Fall 2024",
+                "Fall 2023"
+            ]
+        },
+        {
+            "course": "Big Data Mining and Applications (graduates)",
+            "years": [
+                "Fall 2025",
+                "Fall 2024",
+                "Fall 2023",
+                "Fall 2021",
+                "Fall 2019",
+                "Spring 2018"
+            ]
+        },
+        {
+            "course": "Big Data Analytics (IFM, IMFI, or IMBA graduates)",
+            "years": [
+                "Fall 2025",
+                "Fall 2024",
+                "Fall 2023",
+                "Fall 2022",
+                "Fall 2021",
+                "Fall 2020",
+                "Fall 2019",
+                "Fall 2018"
+            ]
+        },
+        {
+            "course": "Human Information Data Mining (graduates)",
+            "years": [
+                "Fall 2019"
+            ]
+        },
+        {
+            "course": "Data Science",
+            "years": [
+                "Fall 2025",
+                "Fall 2024"
+            ]
+        },
+        {
+            "course": "Big Data Technology and Administration",
+            "years": [
+                "Fall 2023",
+                "Fall 2021"
+            ]
+        },
+        {
+            "course": "Data Mining",
+            "years": [
+                "Spring 2023"
+            ]
+        },
+        {
+            "course": "Natural Language Processing and Text Mining",
+            "years": [
+                "Spring 2026",
+                "Spring 2025",
+                "Spring 2024",
+                "Spring 2023"
+            ]
+        },
+        {
+            "course": "Information Retrieval and Applications (graduate)",
+            "years": [
+                "Fall 2026",
+                "Fall 2022",
+                "Fall 2020",
+                "Spring 2019",
+                "Spring 2017",
+                "Spring 2016",
+                "Spring 2015",
+                "Spring 2014",
+                "Spring 2013",
+                "Spring 2012",
+                "Spring 2011",
+                "Spring 2010",
+                "Spring 2009",
+                "Spring 2008"
+            ]
+        },
+        {
+            "course": "Natural Language Processing and Affective Computing",
+            "years": [
+                "Spring 2020"
+            ]
+        },
+        {
+            "course": "Operating Systems (undergraduate)",
+            "years": [
+                "Spring 2026",
+                "Spring 2025",
+                "Spring 2024",
+                "Spring 2023",
+                "Spring 2022",
+                "Spring 2021",
+                "Spring 2020"
+            ]
+        },
+        {
+            "course": "Operating Systems (graduate)",
+            "years": [
+                "Spring 2021",
+                "Spring 2020",
+                "Fall 2018",
+                "Fall 2017",
+                "Fall 2016",
+                "Fall 2015",
+                "Fall 2013",
+                "Fall 2012",
+                "Fall 2011",
+                "Fall 2010",
+                "Spring 2010 (Gambia)",
+                "Fall 2009",
+                "Fall 2008",
+                "Fall 2007"
+            ]
+        },
+        {
+            "course": "Operating Systems (EECS)",
+            "years": [
+                "Fall 2022",
+                "Fall 2021",
+                "Fall 2020"
+            ]
+        },
+        {
+            "course": "Information Security/Network Security (undergraduate)",
+            "years": [
+                "Spring 2021",
+                "Fall 2019",
+                "Fall 2018",
+                "Fall 2017",
+                "Fall 2016",
+                "Fall 2014",
+                "Fall 2013",
+                "Fall 2012",
+                "Spring 2011 (Gambia)"
+            ]
+        },
+        {
+            "course": "Compilers (undergraduate)",
+            "years": [
+                "Spring 2022",
+                "Fall 2015",
+                "Fall 2011",
+                "Fall 2008"
+            ]
+        },
+        {
+            "course": "Linear Algebra (undergraduate EECS)",
+            "years": [
+                "Spring 2016"
+            ]
+        },
+        {
+            "course": "Object Oriented Programming (undergraduate EECS/Software Engineering Track)",
+            "years": [
+                "Spring 2015",
+                "Spring 2014",
+                "Spring 2013",
+                "Spring 2012",
+                "Spring 2011",
+                "Spring 2010",
+                "Spring 2009",
+                "Spring 2008"
+            ]
+        },
+        {
+            "course": "Computer Programming (undergraduate)",
+            "years": [
+                "Fall 2007",
+                "Spring 2007"
+            ]
+        },
+        {
+            "course": "Discrete Mathematics (undergraduate)",
+            "years": [
+                "Fall 2010"
+            ]
+        },
+        {
+            "course": "Computer Algorithms (undergraduate)",
+            "years": [
+                "Spring 2007"
+            ]
+        }
+    ]
+}
