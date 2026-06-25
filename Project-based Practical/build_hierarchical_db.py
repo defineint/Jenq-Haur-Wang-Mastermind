@@ -66,7 +66,7 @@ for i, item in enumerate(data):
 # 因為有 RTX 4060，批次大小維持 32 以維持效能
 batch_size = 32
 try:
-    for i in tqdm(range(0, len(documents), batch_size), desc="📥 寫入進度"):
+    for i in tqdm(range(0, len(documents), batch_size), desc=" 寫入進度"):
         batch_docs = documents[i : i + batch_size]
         batch_metas = metadatas[i : i + batch_size]
         batch_ids = ids[i : i + batch_size]

@@ -69,9 +69,6 @@ def parse_professor_html_flawless(file_path):
             if title:
                 current_section = title
                 
-        # ==========================================
-        # 🔥 核心修改：遇到列表時，不再切碎！
-        # ==========================================
         elif child.name in ['ul', 'ol']:
             flush_buffer()
             list_content = "" # 用來收集整個清單的字串

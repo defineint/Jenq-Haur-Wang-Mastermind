@@ -9,7 +9,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 INPUT_FILE = 'hierarchical_data.json'
 OUTPUT_FILE = 'hierarchical_data_cleaned.json'
 
-# 🔥 新增：已知死亡的舊網域，直接判死刑，不浪費時間等待 Timeout
+# 新增：已知死亡的舊網域，直接判死刑，不浪費時間等待 Timeout
 KNOWN_DEAD_DOMAINS = ['myweb.ntut.edu.tw']
 
 def verify_url_robust(url):
