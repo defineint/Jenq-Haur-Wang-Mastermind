@@ -1,5 +1,4 @@
 # streamlit run app.py --server.port 8501 --server.enableCORS false --server.enableXsrfProtection false
-# cloudflared tunnel --config config.yml run NLP-final-demo
 
 import warnings
 import logging
